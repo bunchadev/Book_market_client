@@ -1,0 +1,33 @@
+{
+  "name": "book_market_client",
+  "version": "0.1.0",
+  "author": {
+    "name": "xiaochun",
+    "url": "https://xiaochun.com.vn"
+  },
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "antd": "^5.18.3",
+    "next": "14.2.4",
+    "next-auth": "^4.24.7",
+    "npm-check-updates": "^16.14.20",
+    "query-string": "^9.0.0",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "sass": "^1.77.6"
+  },
+  "devDependencies": {
+    "@types/node": "20.14.7",
+    "@types/react": "18.3.3",
+    "@types/react-dom": "18.3.0",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "14.2.4",
+    "typescript": "5.5.2"
+  }
+}
